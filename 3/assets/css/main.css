@@ -1,0 +1,19 @@
+/* -----------------style me---------------------- */
+i{
+    color: #009688;
+    margin-right: 10px;
+}
+.MeColor{
+    color: #009688;
+}
+
+.bgMeColor{
+    background-color: #009688;
+}
+footer{
+    background-color: #009688;
+    color:white;
+}
+footer>div>i{
+    color: white;
+}
